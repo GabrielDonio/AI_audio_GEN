@@ -1,0 +1,8 @@
+tensorflow
+tensorboard
+numpy
+scipy
+matplotlib
+librosa
+pandas
+albumentations
